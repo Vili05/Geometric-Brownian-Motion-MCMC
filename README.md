@@ -1,4 +1,4 @@
-# Geomteric Brownian Motion + NUTS sampler + Microsoft Stock Data
+# Geometric Brownian Motion + NUTS sampler + Microsoft Stock Data
 
 In this project I estimated parameters of geometric Brownian motion process given as
 ```math
